@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Bootcamp</string>
+    <string name="text_hint">This is just a hint</string>
+    <string name="button_label">Shoo</string>>
+    <string name="text_guess_what">guess what</string>>
+    <string name="autofill_hint">Nyahaha</string>>
 </resources>
